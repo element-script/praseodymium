@@ -1,0 +1,15 @@
+{
+  "name": "praseodymium",
+  "version": "0.0.1",
+  "repository": "https://github.com/element-script/praseodymium",
+  "funding": "https://www.patreon.com/coolstone",
+  "description": "Use .properties files in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "properties", "file", "reader", "elementscript"
+  ],
+  "license": "MIT"
+}
